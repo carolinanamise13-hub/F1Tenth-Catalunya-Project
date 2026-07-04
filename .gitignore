@@ -1,0 +1,39 @@
+# ROS 2 build directories
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# ROS bags
+*.bag
+*.db3
+
+# Cache
+.cache/
